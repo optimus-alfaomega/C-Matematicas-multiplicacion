@@ -1,3 +1,9 @@
+# Proposito
+
+Registrar algoritmos con operaciones de multiplicación
+
+
+# Explicación
 # Funciones
 
     Una función es un grupo de declaraciones  que realizan una tarea en particular. En C++, podemos definir nuestras propias funciones.
